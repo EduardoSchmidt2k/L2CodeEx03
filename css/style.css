@@ -34,7 +34,7 @@ body {
 }
 
 body {
-    background-color: #fc8484;
+    background-color: #c9443f;
     font-family: 'Ariel', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
@@ -496,10 +496,10 @@ a img {
 h2.light-h2 {
     font-weight: 800;
     font-size: 36px;
-    text-transform: lowercase;
+    text-transform: uppercase;
     margin: 0px;
     margin-bottom: 80px;
-    color: rgb(251, 255, 0);
+    color: rgb(255, 244, 83);
     line-height: normal;
     text-align: center;
 }
@@ -510,7 +510,7 @@ h2.coloured-h2 {
     text-transform: uppercase;
     margin: 0px;
     margin-bottom: 80px;
-    color: #0dcecb;
+    color: #d63131;
     line-height: normal;
     text-align: center;
 }
@@ -539,7 +539,7 @@ h2.coloured-h2 {
 .section-main {
     width: 100%;
     height: 100%;
-    color: white;
+    color: rgb(255, 244, 83);
     position: relative;
     z-index: 2000;
     display: block;
@@ -562,7 +562,7 @@ h2.coloured-h2 {
     text-transform: uppercase;
     margin: 0px;
     margin-bottom: 30px;
-    color: rgba(255, 255, 255, 1);
+    color: rgb(255, 244, 83);
 }
 
 .section-main img.logo {
@@ -942,7 +942,7 @@ h2.coloured-h2 {
 
 .section.contactsection {
     background-color: transparent;
-    color: white;
+    color: rgb(255, 244, 83);
     line-height: 28px;
     text-align: justify;
 }
@@ -1181,7 +1181,7 @@ h2.coloured-h2 {
     background-color: rgba(0, 0, 0, 0.10);
     padding-top: 60px;
     padding-bottom: 60px;
-    color: white;
+    color: rgb(255, 244, 83);
     line-height: 28px;
     text-align: justify;
 }
