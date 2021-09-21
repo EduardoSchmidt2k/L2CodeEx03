@@ -34,7 +34,7 @@ body {
 }
 
 body {
-    background-color: #c9443f;
+    background-color: #202020;
     font-family: 'Ariel', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
@@ -510,7 +510,7 @@ h2.coloured-h2 {
     text-transform: uppercase;
     margin: 0px;
     margin-bottom: 80px;
-    color: #d63131;
+    color: #ff0000;
     line-height: normal;
     text-align: center;
 }
@@ -1182,6 +1182,7 @@ h2.coloured-h2 {
     padding-top: 60px;
     padding-bottom: 60px;
     color: rgb(255, 244, 83);
+    ;
     line-height: 28px;
     text-align: justify;
 }
